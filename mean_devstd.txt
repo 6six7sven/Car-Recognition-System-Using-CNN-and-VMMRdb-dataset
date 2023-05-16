@@ -1,0 +1,1 @@
+tensor(4.7581),tensor(4.7827),tensor(4.7350),tensor(17682060.),tensor(17774978.),tensor(17639728.)
